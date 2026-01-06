@@ -12,6 +12,7 @@ profile:
     <p>Office 23rd</p>
     <p>Rúa de Lope Gómez de Marzoa Edificio EmprendIA</p>
     <p>Santiago de Compostela, Spain</p>
+    <p>marcosfernandez.pichel@usc.es</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 
