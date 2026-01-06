@@ -7,7 +7,7 @@ subtitle: Assistant Professor at Universidade de Santiago de Compostela
 profile:
   align: right
   image: marcos.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Office 23rd</p>
     <p>Rúa de Lope Gómez de Marzoa Edificio EmprendIA</p>
