@@ -7,6 +7,17 @@ nav: true
 nav_order: 6
 ---
 
+# 2026-2027
+
+- Degree in Artificial Intelligence
+    - **[Language Technologies](https://www.usc.gal/es/estudios/grados/ingenieria-arquitectura/grado-inteligencia-artificial/20262027/tecnologias-lenguaje-18821-17972-3-102295)** - 4th year
+    - **[Reinforcement Learning](https://www.usc.gal/es/estudios/grados/ingenieria-arquitectura/grado-inteligencia-artificial/20262027/aprendizaje-refuerzo-18820-17971-3-102293)** - 4th year
+    - **[Artificial Intelligence in Health](https://www.usc.gal/es/estudios/grados/ingenieria-arquitectura/grado-inteligencia-artificial/20262027/inteligencia-artificial-salud-18823-17974-3-109805)** - 4th year
+- Master's Degree in Big Data
+    - **[Technologies for Unstructured Information](https://www.usc.gal/es/estudios/masteres/ingenieria-arquitectura/master-universitario-tecnologias-analisis-datos-masivos-big-data/20262027/tecnologias-gestion-informacion-estructurada-16519-15865-2-93300)** - 1st year
+- Master's Degree in Lexicography
+    - **[Informatics](https://www.usc.gal/es/estudios/masteres/artes-humanidades/master-universitario-erasmus-mundus-lexicografia-2aed/20262027/informatica-20036-19130-3-106871)** - 1st year
+
 # 2025-2026
 
 - Degree in Artificial Intelligence
